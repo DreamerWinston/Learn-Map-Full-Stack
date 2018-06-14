@@ -154,24 +154,24 @@
 
 ### 推荐收藏的网站
 
-程序员必备 |前端必备 |  前辈博客 | 其他 |
---------- | ------------- | ---- |----
-[StackOverFlow](https://stackoverflow.com/)|[前端的收藏夹](http://f2er.club/)|[阮一峰的博客](http://www.ruanyifeng.com/blog/)|[脚本之家](https://www.jb51.net/)
-[LeetCode](https://leetcode-cn.com/)|[前端必备收藏](http://collect.w3ctrain.com/)|[廖雪峰的博客](https://www.liaoxuefeng.com/)|[站长工具](http://tool.chinaz.com/tools/unicode.aspx)
-[掘金](https://juejin.im/)|[JS前端开发联盟群](https://github.com/jsfront/)|[张鑫旭的博客](http://www.zhangxinxu.com/)|[编程语言排行榜](https://www.tiobe.com/tiobe-index/)
-[思否](https://segmentfault.com/)|[JavaScript参考标准](http://javascript.ruanyifeng.com/)|[陈皓的博客](https://coolshell.cn/)|[在线JS代码测试](http://jsbin.com/xamamosesa/edit?html,js,console,output)
-[简书](https://www.jianshu.com/c/NEt52a)|[伯乐在线论坛](http://web.jobbole.com/)|[今日头条技术博客](https://techblog.toutiao.com/)
-[知乎](https://www.zhihu.com/)|[MarkDown排版利器](http://md.aclickall.com/)
-[小专栏](https://xiaozhuanlan.com/)|[火狐开发者官方手册](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-[InfoQ](http://www.infoq.com/cn/InfoQ/)|[极客导航-前端](http://www.gogeeks.cn/job/12/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
-[V2EX社区](https://www.v2ex.com/)|[W3C-School](https://www.w3cschool.cn/)
-[CNode社区](https://cnodejs.org/)|
-[开源中国](http://www.oschina.net/)|
-[CSDN](https://www.csdn.net/)|
-[知识星球](https://www.xiaomiquan.com/)|
-[51CTO](http://blog.51cto.com/)|
-[极客导航](http://www.gogeeks.cn/)|
-[慕课网](https://www.imooc.com/)|  
+程序员必备 |前端必备 |  前辈博客 | 推荐博客 |其他
+:-------: | :-----------: | :--: |:--:|:--:
+[StackOverFlow](https://stackoverflow.com/)|[前端的收藏夹](http://f2er.club/)|[阮一峰的博客](http://www.ruanyifeng.com/blog/)|[祈澈姑娘](https://www.jianshu.com/u/05f416aefbe1)|[脚本之家](https://www.jb51.net/)
+[LeetCode](https://leetcode-cn.com/)|[前端必备收藏](http://collect.w3ctrain.com/)|[廖雪峰的博客](https://www.liaoxuefeng.com/)|[筑梦师](https://www.jianshu.com/u/c6b20dcdeb81)|[站长工具](http://tool.chinaz.com/tools/unicode.aspx)
+[掘金](https://juejin.im/)|[JS前端开发联盟群](https://github.com/jsfront/)|[张鑫旭的博客](http://www.zhangxinxu.com/)|[vivian](http://www.vivianchen.cn/)|[编程语言排行榜](https://www.tiobe.com/tiobe-index/)
+[思否](https://segmentfault.com/)|[JavaScript参考标准](http://javascript.ruanyifeng.com/)|[陈皓的博客](https://coolshell.cn/)|[java3y](https://zhongfucheng.bitcron.com/post/shou-ji/wen-zhang-dao-hang)|[在线JS代码测试](http://jsbin.com/xamamosesa/edit?html,js,console,output)
+[简书](https://www.jianshu.com/c/NEt52a)|[伯乐在线论坛](http://web.jobbole.com/)|[今日头条技术博客](https://techblog.toutiao.com/)|[zhisheng](http://www.54tianzhisheng.cn/)|
+[知乎](https://www.zhihu.com/)|[MarkDown排版利器](http://md.aclickall.com/)|[前端农民工的博客](https://github.com/fouber/blog)|[贾顺明](https://blog.jiasm.org/)|
+[小专栏](https://xiaozhuanlan.com/)|[火狐开发者官方手册](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)|[尤小右的博客](http://evanyou.me/?from=inf&wvr=5&loc=infblog)|[幾文山](https://blog.3u3.me/)|
+[InfoQ](http://www.infoq.com/cn/InfoQ/)|[极客导航-前端](http://www.gogeeks.cn/job/12/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)|[CSS魔法的博客](https://github.com/cssmagic/blog/issues)|[sindrilin](http://sindrilin.com/)|
+[V2EX社区](https://www.v2ex.com/)|[W3C-School](https://www.w3cschool.cn/)|[小胡子哥的博客](https://www.barretlee.com/)|[沈唁志](https://qq52o.me/?from=timeline&isappinstalled=0)|
+[CNode社区](https://cnodejs.org/)||||
+[开源中国](http://www.oschina.net/)||||
+[CSDN](https://www.csdn.net/)||||
+[知识星球](https://www.xiaomiquan.com/)||||
+[51CTO](http://blog.51cto.com/)||||
+[极客导航](http://www.gogeeks.cn/)||||
+[慕课网](https://www.imooc.com/)|  |||
 
 ### 推荐公众号
 
